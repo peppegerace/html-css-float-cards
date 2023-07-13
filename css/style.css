@@ -20,6 +20,11 @@
   clear: both;
 }
 
+.image img{
+  width: 100%;
+}
+
+
 /* header */
 header{
   text-align: center;
@@ -32,3 +37,34 @@ h1{
   margin-bottom: 20px;
 }
 
+/* main */
+main{
+  color: white;
+}
+
+.box{
+  width: 300px;
+  background-color: black;
+  margin: 10px;
+}
+
+/* contenent box */
+.image{
+  width: 30%;
+}
+
+.text{
+  width: 60%;
+  font-size: .9rem;
+  padding: 5px 10px;
+}
+
+.text span{
+  display: block;
+  margin-top: 10px;
+}
+
+/* style email */
+.email{
+  color: #21a0d9;
+}
