@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body{
+  font-family: 'Ubuntu', sans-serif;
+}
+
 .container{
   width: 90%;
   max-width: 1000px;
@@ -44,6 +48,7 @@ main{
 
 .box{
   width: 300px;
+  height: 90px;
   background-color: black;
   margin: 10px;
 }
@@ -54,7 +59,7 @@ main{
 }
 
 .text{
-  width: 60%;
+  width: 70%;
   font-size: .9rem;
   padding: 5px 10px;
 }
